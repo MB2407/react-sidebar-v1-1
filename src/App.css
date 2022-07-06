@@ -8,8 +8,9 @@
 }
 
 .home,
-.reports,
-.products {
+.leave,
+.balance,
+.upcoming {
   display: flex;
   height: 90vh;
   align-items: center;
